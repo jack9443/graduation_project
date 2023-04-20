@@ -43,7 +43,7 @@ python src/main.py --mode test
 data 디렉토리에 train, valid가 있으며 각 이미지와 라벨은 .zip 파일로 압축되어 있습니다
 train, valid 모두 디렉토리 안에 image.zip, label.zip이 있어야합니다.
 
-[데이터 폴더 구글 드라이브](https://drive.google.com/drive/folders/1BlVZ590-SA7jEG3fmMgDZpGqU0NgaQ7V?usp=sharing)
+[데이터 폴더 구글 드라이브](https://drive.google.com/drive/folders/17jvy7wNuypgf2S9PZuhvCIpPIjD06M2V?usp=share_link)
 
 ![데이터 위치](src/utils/data_path.png)
 
